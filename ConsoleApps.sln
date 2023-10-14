@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KomodoCafe", "KomodoCafeApp\KomodoCafe.csproj", "{7F3A6F33-8971-4A41-8E6D-E24723234892}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Outings", "KomodoOutingsApp\Outings.csproj", "{89EB3069-6680-41A2-A400-B6D8901EA20A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F3A6F33-8971-4A41-8E6D-E24723234892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F3A6F33-8971-4A41-8E6D-E24723234892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F3A6F33-8971-4A41-8E6D-E24723234892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F3A6F33-8971-4A41-8E6D-E24723234892}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89EB3069-6680-41A2-A400-B6D8901EA20A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89EB3069-6680-41A2-A400-B6D8901EA20A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89EB3069-6680-41A2-A400-B6D8901EA20A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89EB3069-6680-41A2-A400-B6D8901EA20A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0550819B-D3E0-48A8-8327-309FE99F2587}
+	EndGlobalSection
+EndGlobal

@@ -208,7 +208,7 @@ public class ProgramUI
             $"{item.MealName}\n" +
             $"{item.Description}\n" +
             $"{item.IngredientsList}\n" +
-            $"{item.Price}" +
+            $"${item.Price}" +
             "\n"
         );
     }

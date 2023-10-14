@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samso\\Documents\\CodingProjects\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\csharpBasics\\12_Komodo_Outings\\Outings.csproj",
+      "projectUniqueName": "C:\\Users\\samso\\Documents\\CodingProjects\\ElevenFiftyProjects\\codingFoundations\\assignments\\ConsoleApps\\KomodoOutingsApp\\Outings.csproj",
       "projectName": "Outings",
-      "projectPath": "C:\\Users\\samso\\Documents\\CodingProjects\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\csharpBasics\\12_Komodo_Outings\\Outings.csproj",
+      "projectPath": "C:\\Users\\samso\\Documents\\CodingProjects\\ElevenFiftyProjects\\codingFoundations\\assignments\\ConsoleApps\\KomodoOutingsApp\\Outings.csproj",
       "packagesPath": "C:\\Users\\samso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samso\\Documents\\CodingProjects\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\csharpBasics\\12_Komodo_Outings\\obj\\",
+      "outputPath": "C:\\Users\\samso\\Documents\\CodingProjects\\ElevenFiftyProjects\\codingFoundations\\assignments\\ConsoleApps\\KomodoOutingsApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\samso\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samso\\Documents\\CodingProjects\\ElevenFiftyProjects\\codingFoundations\\assignments\\ConsoleApplications\\11_Komodo_Cafe\\KomodoCafe.csproj",
+      "projectUniqueName": "C:\\Users\\samso\\Documents\\CodingProjects\\ElevenFiftyProjects\\codingFoundations\\assignments\\ConsoleApps\\KomodoCafeApp\\KomodoCafe.csproj",
       "projectName": "KomodoCafe",
-      "projectPath": "C:\\Users\\samso\\Documents\\CodingProjects\\ElevenFiftyProjects\\codingFoundations\\assignments\\ConsoleApplications\\11_Komodo_Cafe\\KomodoCafe.csproj",
+      "projectPath": "C:\\Users\\samso\\Documents\\CodingProjects\\ElevenFiftyProjects\\codingFoundations\\assignments\\ConsoleApps\\KomodoCafeApp\\KomodoCafe.csproj",
       "packagesPath": "C:\\Users\\samso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samso\\Documents\\CodingProjects\\ElevenFiftyProjects\\codingFoundations\\assignments\\ConsoleApplications\\11_Komodo_Cafe\\obj\\",
+      "outputPath": "C:\\Users\\samso\\Documents\\CodingProjects\\ElevenFiftyProjects\\codingFoundations\\assignments\\ConsoleApps\\KomodoCafeApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\samso\\AppData\\Roaming\\NuGet\\NuGet.Config"
