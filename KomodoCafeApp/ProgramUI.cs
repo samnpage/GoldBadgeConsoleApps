@@ -113,7 +113,7 @@ public class ProgramUI
 
             Console.Clear();
 
-            MenuItems item = repo.GetContentByNumber(mealNum);
+            MenuItems item = repo.GetContentByNumber(mealNum)!;
             if (item == default)
             {
                 Console.WriteLine("Meal not found...");
@@ -169,7 +169,7 @@ public class ProgramUI
 
             Console.Clear();
 
-            MenuItems item = repo.GetContentByNumber(num);
+            MenuItems item = repo.GetContentByNumber(num)!;
 
             if (item == default)
             {

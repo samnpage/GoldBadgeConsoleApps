@@ -23,7 +23,7 @@ public class MenuItemRepository
     }
 
     //Read
-    public MenuItems GetContentByNumber(string number)
+    public MenuItems? GetContentByNumber(string number)
     {
         foreach (MenuItems content in itemDirectory)
         {
@@ -39,7 +39,7 @@ public class MenuItemRepository
     //Update
     public bool UpdateExistingContent(string ogNumber, MenuItems newContent)
     {
-        MenuItems oldContent = GetContentByNumber(ogNumber);
+        MenuItems oldContent = GetContentByNumber(ogNumber)!;
 
         if (oldContent != default)
         {
@@ -60,7 +60,7 @@ public class MenuItemRepository
     //Delete
     public bool DeleteExistingContent(string num) 
     {
-        MenuItems contentToDelete = GetContentByNumber(num);
+        MenuItems contentToDelete = GetContentByNumber(num)!;
 
         if (contentToDelete != default)
         {
