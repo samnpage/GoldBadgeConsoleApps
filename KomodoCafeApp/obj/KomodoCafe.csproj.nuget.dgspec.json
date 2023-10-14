@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samso\\Documents\\CodingProjects\\ElevenFiftyProjects\\codingFoundations\\assignments\\ConsoleApps\\KomodoCafeApp\\KomodoCafe.csproj": {}
+    "c:\\Users\\samso\\Documents\\CodingProjects\\ElevenFiftyProjects\\codingFoundations\\assignments\\ConsoleApps\\KomodoCafeApp\\KomodoCafe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samso\\Documents\\CodingProjects\\ElevenFiftyProjects\\codingFoundations\\assignments\\ConsoleApps\\KomodoCafeApp\\KomodoCafe.csproj": {
+    "c:\\Users\\samso\\Documents\\CodingProjects\\ElevenFiftyProjects\\codingFoundations\\assignments\\ConsoleApps\\KomodoCafeApp\\KomodoCafe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samso\\Documents\\CodingProjects\\ElevenFiftyProjects\\codingFoundations\\assignments\\ConsoleApps\\KomodoCafeApp\\KomodoCafe.csproj",
+        "projectUniqueName": "c:\\Users\\samso\\Documents\\CodingProjects\\ElevenFiftyProjects\\codingFoundations\\assignments\\ConsoleApps\\KomodoCafeApp\\KomodoCafe.csproj",
         "projectName": "KomodoCafe",
-        "projectPath": "C:\\Users\\samso\\Documents\\CodingProjects\\ElevenFiftyProjects\\codingFoundations\\assignments\\ConsoleApps\\KomodoCafeApp\\KomodoCafe.csproj",
+        "projectPath": "c:\\Users\\samso\\Documents\\CodingProjects\\ElevenFiftyProjects\\codingFoundations\\assignments\\ConsoleApps\\KomodoCafeApp\\KomodoCafe.csproj",
         "packagesPath": "C:\\Users\\samso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samso\\Documents\\CodingProjects\\ElevenFiftyProjects\\codingFoundations\\assignments\\ConsoleApps\\KomodoCafeApp\\obj\\",
+        "outputPath": "c:\\Users\\samso\\Documents\\CodingProjects\\ElevenFiftyProjects\\codingFoundations\\assignments\\ConsoleApps\\KomodoCafeApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samso\\AppData\\Roaming\\NuGet\\NuGet.Config"
