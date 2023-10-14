@@ -23,7 +23,7 @@ public class OutingsRepository
     }
 
     //Read
-    public Outings GetContentByType(string type)
+    public Outings? GetContentByType(string type)
     {
         foreach (Outings content in itemDirectory)
         {
@@ -33,13 +33,13 @@ public class OutingsRepository
             }
         }
 
-        return default;
+        return null;
     }
     
     //Update
     public bool UpdateExistingContent(string ogNumber, Outings newContent)
     {
-        Outings oldContent = GetContentByType(ogNumber);
+        Outings oldContent = GetContentByType(ogNumber)!;
 
         if (oldContent != default)
         {
